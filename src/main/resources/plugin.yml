@@ -1,0 +1,10 @@
+name: BoatRace
+version: '${project.version}'
+main: de.swc.Main
+api-version: 1.19
+authors: [ Mr_Mr_Mystery ]
+description: Boat race for winter event
+
+commands:
+  boatrace:
+    description: BoatRace-Plugin
